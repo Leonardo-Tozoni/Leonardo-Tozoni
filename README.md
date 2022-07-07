@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Tozoni, sejam bem vindos
 
-- 🔭 Hoje trabalho na área de projetos, mas busco me recolocar como desenvolvedor web
-- 🌱 Estudando JavaScript, me aperfeiçoando em Front-end
+- 👨‍🎓 Hoje trabalho na área de projetos, mas busco me recolocar como desenvolvedor web
+- 🧑‍💻 Estudando JavaScript, me aperfeiçoando em Front-end
 
 <div align="center">
   <a href="https://github.com/Leonardo-Tozoni">
