@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Tozoni, sejam bem vindos
 
-- 👨‍🎓 Atualmente trabalhando com desenvolvimento de softwares Desktop em C# e Java.
-- 🧑‍💻 Estudando JavaScript, PHP e Dart com Flutter.
+- 👨‍🎓 Atualmente trabalhando como Analista de Softwares para Hardwares.
+- 🧑‍💻 Estudando JavaScript, para me aprofundar em ReactJS.
 
 <div align="center">
   <a href="https://github.com/Leonardo-Tozoni">
@@ -12,7 +12,10 @@
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 </div>
 
 ##
