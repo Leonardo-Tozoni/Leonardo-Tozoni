@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Tozoni, sejam bem vindos
 
-- 👨‍🎓 Atualmente trabalhando como Desenvolvedor Web Freelaner.
-- 🧑‍💻 Estudando JavaScript, PHP, ReactJS e TypeScript
+- 👨‍🎓 Atualmente trabalhando como Desenvolvedor FullStack.
+- 🧑‍💻 Estudando JavaScript, ReactJS, TypeScript e C#.
 
 <div align="center">
   <a href="https://github.com/Leonardo-Tozoni">
